@@ -1,0 +1,37 @@
+body {
+    margin:0;
+    padding:0;
+}
+
+.container {
+    width: 1024px;
+    margin: 0 auto;
+}
+
+header {
+    background-color: #5b5b5b;
+    display:flex;
+}
+
+header h1 {
+    color: white;
+}
+
+img {
+    float:left;
+    margin-right: 10px;
+}
+
+.col-1 {
+    width: 70%;
+    float: left;
+}
+
+.col-2 {
+    width: 27%;
+    float:left;
+}
+
+/* .clear {
+    clear:both;
+} */
